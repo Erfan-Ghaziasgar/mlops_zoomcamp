@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops_zoomcamp/02-experiment-tracking/mlruns/677146546689265506/ec2901f972064112b5ba69dad366418c/artifacts
+end_time: 1748174847852
+entry_point_name: ''
+experiment_id: '677146546689265506'
+lifecycle_stage: active
+run_id: ec2901f972064112b5ba69dad366418c
+run_name: casual-quail-685
+run_uuid: ec2901f972064112b5ba69dad366418c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748174843509
+status: 3
+tags: []
+user_id: codespace

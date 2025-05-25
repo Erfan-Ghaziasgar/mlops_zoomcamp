@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops_zoomcamp/02-experiment-tracking/mlruns/677146546689265506
+creation_time: 1748174843435
+experiment_id: '677146546689265506'
+last_update_time: 1748174843435
+lifecycle_stage: active
+name: logistic_regression_hyperopt
