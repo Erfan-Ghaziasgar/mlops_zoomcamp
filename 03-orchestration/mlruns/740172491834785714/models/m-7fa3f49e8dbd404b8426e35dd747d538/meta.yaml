@@ -1,0 +1,11 @@
+artifact_location: mlflow-artifacts:/740172491834785714/models/m-7fa3f49e8dbd404b8426e35dd747d538/artifacts
+creation_timestamp: 1748879211736
+experiment_id: '740172491834785714'
+last_updated_timestamp: 1748879214866
+model_id: m-7fa3f49e8dbd404b8426e35dd747d538
+model_type: ''
+name: vectorizer
+params: {}
+source_run_id: 46826201d7144c86a070958355e71de4
+status: 2
+status_message: null

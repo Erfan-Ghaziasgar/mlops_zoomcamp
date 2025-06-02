@@ -1,0 +1,15 @@
+artifact_location: mlflow-artifacts:/740172491834785714/models/m-b2c7f07e0fd748d39c58cd2e7b0bebd5/artifacts
+creation_timestamp: 1748879787842
+experiment_id: '740172491834785714'
+last_updated_timestamp: 1748879790694
+model_id: m-b2c7f07e0fd748d39c58cd2e7b0bebd5
+model_type: ''
+name: vectorizer
+params:
+  features: PULocationID,DOLocationID
+  model_type: LinearRegression
+  n_features: '518'
+  n_samples: '3316216'
+source_run_id: 9099bff6c33d4fb892a16a345f378e55
+status: 2
+status_message: null

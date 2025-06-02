@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/740172491834785714/46826201d7144c86a070958355e71de4/artifacts
+end_time: 1748879214872
+entry_point_name: ''
+experiment_id: '740172491834785714'
+lifecycle_stage: active
+run_id: 46826201d7144c86a070958355e71de4
+run_name: masked-vole-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748879089416
+status: 3
+tags: []
+user_id: erfan97

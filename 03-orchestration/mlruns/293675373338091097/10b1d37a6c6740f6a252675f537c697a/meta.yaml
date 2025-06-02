@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/293675373338091097/10b1d37a6c6740f6a252675f537c697a/artifacts
+end_time: 1748382872644
+entry_point_name: ''
+experiment_id: '293675373338091097'
+lifecycle_stage: active
+run_id: 10b1d37a6c6740f6a252675f537c697a
+run_name: charming-cod-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748382859943
+status: 3
+tags: []
+user_id: erfan97

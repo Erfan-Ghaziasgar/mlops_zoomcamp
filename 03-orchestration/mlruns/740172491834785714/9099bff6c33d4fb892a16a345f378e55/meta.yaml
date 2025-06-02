@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/740172491834785714/9099bff6c33d4fb892a16a345f378e55/artifacts
+end_time: 1748879790699
+entry_point_name: ''
+experiment_id: '740172491834785714'
+lifecycle_stage: active
+run_id: 9099bff6c33d4fb892a16a345f378e55
+run_name: peaceful-fly-338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748879721548
+status: 3
+tags: []
+user_id: erfan97

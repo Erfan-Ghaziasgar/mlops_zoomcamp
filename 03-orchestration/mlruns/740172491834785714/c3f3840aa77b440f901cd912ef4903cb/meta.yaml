@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/740172491834785714/c3f3840aa77b440f901cd912ef4903cb/artifacts
+end_time: 1748879676501
+entry_point_name: ''
+experiment_id: '740172491834785714'
+lifecycle_stage: active
+run_id: c3f3840aa77b440f901cd912ef4903cb
+run_name: nosy-gull-723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748879597198
+status: 4
+tags: []
+user_id: erfan97

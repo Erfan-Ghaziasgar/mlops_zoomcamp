@@ -1,0 +1,18 @@
+artifact_location: mlflow-artifacts:/293675373338091097/models/m-bc7884050f3340ed9034f7dfab7eb48a/artifacts
+creation_timestamp: 1748382868163
+experiment_id: '293675373338091097'
+last_updated_timestamp: 1748382872635
+model_id: m-bc7884050f3340ed9034f7dfab7eb48a
+model_type: ''
+name: models_mlflow
+params:
+  learning_rate: '0.09585355369315604'
+  max_depth: '30'
+  min_child_weight: '1.060597050922164'
+  objective: reg:linear
+  reg_alpha: '0.018060244040060163'
+  reg_lambda: '0.011658731377413597'
+  seed: '42'
+source_run_id: 10b1d37a6c6740f6a252675f537c697a
+status: 2
+status_message: null

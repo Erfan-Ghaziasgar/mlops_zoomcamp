@@ -1,0 +1,15 @@
+artifact_location: mlflow-artifacts:/740172491834785714/models/m-6c83998ac4b24d8cb0b33af2e0c6f47b/artifacts
+creation_timestamp: 1748879782756
+experiment_id: '740172491834785714'
+last_updated_timestamp: 1748879787618
+model_id: m-6c83998ac4b24d8cb0b33af2e0c6f47b
+model_type: ''
+name: model
+params:
+  features: PULocationID,DOLocationID
+  model_type: LinearRegression
+  n_features: '518'
+  n_samples: '3316216'
+source_run_id: 9099bff6c33d4fb892a16a345f378e55
+status: 2
+status_message: null
